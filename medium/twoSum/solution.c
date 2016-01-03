@@ -1,7 +1,7 @@
 /*
  * Author: Ethan Shi
  * Version: 1.0.0
- * Date:
+ * Date: 2016-1-3
  * Description:
  *   this is a solution of the question called "TwoSum".
  *   see question.md for more details.
